@@ -1,0 +1,39 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  margin-left: 300px;
+  margin-right: 50px;
+ 
+
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  margin-left: 300px;
+  margin-right: 50px;
+
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+.common{
+ height: 300px;
+ width: 350px;
+ display: inline-block;
+ border-radius: 10px;
+ font-size: 15px;
+ margin-top: 50px;
+ background-color: white;
+ padding: 10px;
+}
+
+
+.i{
+  float: right;
+}

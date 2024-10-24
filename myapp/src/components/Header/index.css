@@ -1,0 +1,23 @@
+ .Ra{
+  height: 40px;
+  width: 50px;
+  background-color: rgb(210, 215, 218);
+  color: blue;
+  margin-left: 80px;
+ }
+
+ .header-container{
+  display: flex;
+  flex-direction: row;
+ }
+
+ .himage{
+  height: 40px;
+  width: 50px;
+ }
+
+ .src-container{
+  display: flex;
+  margin-top: 25px;
+   margin-left: 1100px;
+ }

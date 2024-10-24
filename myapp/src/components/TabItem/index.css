@@ -1,0 +1,16 @@
+ .btn-container{
+  display: inline-block;
+ }
+
+ .buttons{
+  height: 30px;
+  width: 100px;
+  margin-left: 30px;
+  border-radius: 10px;
+ 
+ }
+
+ .btn-style{
+    background-color: black;
+    color: white;
+ }

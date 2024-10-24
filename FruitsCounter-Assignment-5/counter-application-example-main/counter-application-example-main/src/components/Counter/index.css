@@ -1,0 +1,36 @@
+ .container{
+  margin-left: 80vh;
+  margin-top: 25ch;
+ }
+ .p1{
+  height: 50px;
+  width: 30px;
+ }
+
+ .container2{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 150px;
+  
+   
+  }
+
+ .button1{
+   margin-right: 20px;
+   background-color:blue; 
+   color: white;
+   border: none;
+
+    
+ 
+ }
+
+
+ .button2{
+   background-color: blue;
+   color: white;
+   border: none;
+
+}
+

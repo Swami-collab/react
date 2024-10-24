@@ -1,0 +1,55 @@
+/* Write your code here. */
+body{
+    background-image: linear-gradient(to right,  #2e9c6f,rgba(46,156,111,255));
+
+}
+
+.calc{
+    margin-top: 100px;
+    margin-left: 80px;
+    color: white;
+}
+.sub-container{
+    margin-top: 50px;
+}
+.image{
+    margin-top: 50px;
+    height: 400px;
+    width: 600px;
+   margin-left: 400px;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.phrase {
+    margin-top: 50px;
+    margin-left: 80px;
+color: white;
+}
+
+.input{
+ margin-left: 80px;
+color: white;
+border: none;
+border: 1px white solid;
+border-radius: 4px;
+background-image: linear-gradient(to right, #2e9c6f,rgba(46,156,111,255));
+
+height:30px;
+ }
+
+ .display{
+    height: 60px;
+    width: 180px;
+    margin-left: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    color: rgb(3, 107, 3);
+}

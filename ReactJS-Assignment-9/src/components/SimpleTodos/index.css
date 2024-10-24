@@ -1,0 +1,32 @@
+.title{
+    margin-top: 60px;
+    color: orange;
+    font-size: 40px;
+}
+
+body {
+    background-color: rgb(255, 151, 78);
+    background-size: cover;
+    display: flex;
+    min-height: 100vh;
+     
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 190vh;
+    margin: 80px;
+    height: 85vh;
+    background-color: white;
+    
+    
+}
+button
+{
+    border: none;
+    border: 1px red solid;
+    border-radius: 3px;
+    width: 100px;
+}

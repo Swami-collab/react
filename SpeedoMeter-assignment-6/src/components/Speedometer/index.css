@@ -1,0 +1,54 @@
+/* Write your CSS here */
+body{
+    background-color: black;
+}
+
+.button1,.button2{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+ } 
+
+ .h1{
+    color: white;
+    font-size: 60px;
+    margin-left: 470px;
+    font-style: italic;
+ }
+
+ .h2{
+    color: white;
+    margin-left: 500px;
+
+
+ }
+
+ .p1{
+    color: white;
+    margin-left: 470px;
+
+ 
+ }
+#b1{
+    background-color: blue;
+    margin-right: 30px; 
+
+     
+}
+
+.bcontainer{
+    margin-left: 500px;
+
+}
+
+.image{
+    height: 400px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    margin-left:300px ;
+    margin-top: 80px;
+     
+}

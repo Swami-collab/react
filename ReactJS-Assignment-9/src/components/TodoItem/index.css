@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.content{
+    color:black;
+    width: 600px;
+    margin: 0px;    
+}
+
+button{
+    margin-top: 20px;
+    color:red;
+    background-color: white;
+  
+    height: 30px;
+    width: 80px;
+    
+}
+
+.tcontainer{
+    display: flex;
+    flex-direction: row;
+ }
+
+ .tsub-container{
+    display: block;
+    margin-right: 200px;
+ }
+
+
+ /* .bcontainer{
+    margin-top: 3px;
+} */

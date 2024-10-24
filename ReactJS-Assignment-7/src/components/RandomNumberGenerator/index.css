@@ -1,0 +1,38 @@
+/* Write your CSS here */
+ .title {
+    color: blue;
+ }
+
+ .main-container{
+  background-image:  url(https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 99vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+ .child-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:  center;
+    background-color: white;
+    border-radius: 10px;
+    
+  }
+
+  button{
+    color: white;
+    background-color: blue;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+  }
+
+  .num{
+    color: blue;
+    font-size: 80px;
+     
+  }

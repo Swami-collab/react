@@ -1,0 +1,10 @@
+ .main-container{
+    display: inline-block;
+  }
+
+
+.image{
+    height: 150px;
+    width: 250px;
+    margin-right: 110px;
+}
